@@ -1,7 +1,6 @@
+*.csv
 data_collection/all_study_ids.csv
-data_collection/all_study_ids.p
 data_collection/Data_Collected_1.csv
 data_collection/study_ids_done.csv
-data_collection/study_ids_done.p
 ipynb_checkpoints/
 .ipynb_checkpoints
