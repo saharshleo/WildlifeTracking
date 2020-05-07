@@ -9,7 +9,7 @@ _A geo-informatics project to keep track of different animal species and visuali
 ## Layers
 ![image of all layers](https://github.com/saharshleo/WildlifeTracking/blob/master/DemoPlots/layers.png)<br />
 **For viewing the plot of the layer click the checkbox of respective layers**
-* **TIN interpolation** - Viewing the plots of black flying fox in the unknown reason by using TIN Interpolation
+* **TIN interpolation** - Viewing the plots of black flying fox in an unknown region by using TIN Interpolation
 ![image of all layers](https://github.com/saharshleo/WildlifeTracking/blob/master/DemoPlots/interpolationResult.png)
 * **Path Northern Pintail** - Path view of Northern Pintail for each individual animal of that species __
 * **Mixed_Animals** - categorised view on the basis of taxon canonical name 
@@ -31,7 +31,7 @@ For visualizing this layer change the project CRS to EPSG:25386 and zoom to laye
 * [flyingFox3d](https://github.com/saharshleo/WildlifeTracking/blob/master/GraphicsPlot/flyingFox3D.html)
   * x-axis - Latitude 
   * Y-axis - Longitude
-  * Z-axis - Number of hrs
+  * Z-axis - Number of hours
 * [ibisScatterPlot](https://github.com/saharshleo/WildlifeTracking/blob/master/GraphicsPlot/ibisScatterPlot.html)
   * x-axis - Latitude 
   * Y-axis - Longitude
