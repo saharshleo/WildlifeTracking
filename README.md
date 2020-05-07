@@ -8,7 +8,7 @@ _A geo-informatics project to keep track of different animal species and visuali
 
 ## Layers
 ![image of all layers](https://github.com/saharshleo/WildlifeTracking/blob/master/DemoPlots/layers.png)<br />
-####For viewing the plot of the layer click the checkbox of respective layers
+**For viewing the plot of the layer click the checkbox of respective layers**
 * **TIN interpolation** - Viewing the plots of black flying fox in the unknown reason by using TIN Interpolation
 ![image of all layers](https://github.com/saharshleo/WildlifeTracking/blob/master/DemoPlots/interpolationResult.png)
 * **Path Northern Pintail** - Path view of Northern Pintail for each individual animal of that species __
