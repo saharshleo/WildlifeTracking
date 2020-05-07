@@ -1,0 +1,49 @@
+# WildlifeTracking
+_A geo-informatics project to keep track of different animal species and visualize factors related to them_
+## Dependencies
+* QGIS 3.10.3
+* MapLibrary plugin
+* TimeManager plugin
+## Layers
+![image of all layers](https://github.com/saharshleo/WildlifeTracking/blob/master/DemoPlots/layers.png)<br />
+For viewing the plot of the layer click the checkbox of respective layers
+* TIN Interpolation - Viewing the plots of black flying fox in the unknown reason by using TIN Interpolation
+![image of all layers](https://github.com/saharshleo/WildlifeTracking/blob/master/DemoPlots/interpolationResult.png)
+* Path Northern Pintail - Path view of Northern Pintail for each individual animal of that species 
+* Mixed Animals - categorised view on the basis of taxon canonical name 
+* Animals
+  * Unclustered Categorized - Initial plot of data with categorised view on the basis of sex
+  * Clustered - Clustered view of data
+* Nearest Populated place - Line connecting each plot of animal data to its nearest populated place 
+* Nearest Rivers Lakes - Line connecting each plot of animal data to its nearest rivers/lakes
+* Area Covered by Zebra Elephant - Polygon layer for visualizing area covered by Zebra and Elephant 
+* Buffer Analysis - Buffer analysis for visualizing flying fox flying within 15km of populated places
+![image of all layers](https://github.com/saharshleo/WildlifeTracking/blob/master/DemoPlots/bufferResult.png)
+For visualizing this layer change the project CRS to EPSG:25386 and zoom to layer flyingFoxWithin15kms
+* ne_10m_populated_place_simple - plot of populated places
+* ne_10m_rivers_lake_centerline - Line plot of rivers and lakes centerline 
+* Google Satellite - Base Map
+## Time Series Heat Map
+![image of all layers](https://github.com/saharshleo/WildlifeTracking/blob/master/DemoPlots/timeSeriesHeatmap.gif)
+## Grapics Plot
+* flyingFox3d 
+  * x-axis - latitude 
+  * Y-axis - Longitude
+  * Z-axis - Number of hrs
+* ibisScatterPlot
+  * x-axis - latitude 
+  * Y-axis - Longitude
+* nearestPopSavannahSparrowPlot
+  * x-axis - nearest river/lake name 
+  * Y-axis - distance of Savannah Sparrow from that river/lake
+* nearestPopWhalePLot
+  * x-axis - HubName(populated place) 
+  * Y-axis - HubDist(distance from populated place)
+* nearestRiverIbis
+  * x-axis - nearest river/lake name 
+  * Y-axis - distance of American Ibis from that river/lake
+## Sample Plot
+* [QGISCloud](https://qgiscloud.com/ganadhish/final_wildlife_tracking/?bl=&l=black%20vulture%2Cbald%20eagle%2Cblue%20whale%2Cmallard%2CGoogle%20Satellite&t=final_wildlife_tracking&e=-22205597%2C-2573073%2C3697111%2C9822656)
+* [HERE-STUDIO_1](https://studio.here.com/viewer/?project_id=82c0ea42-1daa-44bd-b988-cc04e790a83b)
+* [HERE-STUDIo_2](https://studio.here.com/viewer/?project_id=55d3a441-7195-44ae-a7ac-911da0fd916b)
+ 
