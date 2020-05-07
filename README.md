@@ -8,14 +8,14 @@ _A geo-informatics project to keep track of different animal species and visuali
 
 ## Layers
 ![image of all layers](https://github.com/saharshleo/WildlifeTracking/blob/master/DemoPlots/layers.png)<br />
-For viewing the plot of the layer click the checkbox of respective layers
+####For viewing the plot of the layer click the checkbox of respective layers
 * **TIN interpolation** - Viewing the plots of black flying fox in the unknown reason by using TIN Interpolation
 ![image of all layers](https://github.com/saharshleo/WildlifeTracking/blob/master/DemoPlots/interpolationResult.png)
 * **Path Northern Pintail** - Path view of Northern Pintail for each individual animal of that species __
 * **Mixed_Animals** - categorised view on the basis of taxon canonical name 
 * **Animals**
-  * Unclustered Categorized - Initial plot of data with categorised view on the basis of sex
-  * Clustered - Clustered view of data
+  * **Unclustered Categorized** - Initial plot of data with categorised view on the basis of sex
+  * **Clustered** - Clustered view of data
 * **nearestPopulated place** - Line connecting each plot of animal data to its nearest populated place 
 * **nearestRiversLakes** - Line connecting each plot of animal data to its nearest rivers/lakes
 * **AreaCoveredbyZebraElephant** - Polygon layer for visualizing area covered by Zebra and Elephant 
