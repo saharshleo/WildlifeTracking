@@ -29,23 +29,23 @@ For visualizing this layer change the project CRS to EPSG:25386 and zoom to laye
 ![image of all layers](https://github.com/saharshleo/WildlifeTracking/blob/master/DemoPlots/timeSeriesHeatmap.gif)
 ## Grapics Plot
 * [flyingFox3d](https://github.com/saharshleo/WildlifeTracking/blob/master/GraphicsPlot/flyingFox3D.html)
-  * x-axis - latitude 
+  * x-axis - Latitude 
   * Y-axis - Longitude
   * Z-axis - Number of hrs
 * [ibisScatterPlot](https://github.com/saharshleo/WildlifeTracking/blob/master/GraphicsPlot/ibisScatterPlot.html)
-  * x-axis - latitude 
+  * x-axis - Latitude 
   * Y-axis - Longitude
 * [nearestPopSavannahSparrowPlot](https://github.com/saharshleo/WildlifeTracking/blob/master/GraphicsPlot/nearestPopSavannahSparrowPlot.html)
-  * x-axis - nearest river/lake name 
-  * Y-axis - distance of Savannah Sparrow from that river/lake
+  * x-axis - Nearest river/lake name 
+  * Y-axis - Distance of Savannah Sparrow from that river/lake
 * [nearestPopWhalePLot](https://github.com/saharshleo/WildlifeTracking/blob/master/GraphicsPlot/nearestPopWhalePLot.html)
   * x-axis - HubName(populated place) 
   * Y-axis - HubDist(distance from populated place)
 * [nearestRiverIbis](https://github.com/saharshleo/WildlifeTracking/blob/master/GraphicsPlot/nearestRiverIbis.html)
-  * x-axis - nearest river/lake name 
-  * Y-axis - distance of American Ibis from that river/lake
+  * x-axis - Nearest river/lake name 
+  * Y-axis - Distance of American Ibis from that river/lake
 ## Sample Plot
 * [QGISCloud](https://qgiscloud.com/ganadhish/final_wildlife_tracking/?bl=&l=black%20vulture%2Cbald%20eagle%2Cblue%20whale%2Cmallard%2CGoogle%20Satellite&t=final_wildlife_tracking&e=-22205597%2C-2573073%2C3697111%2C9822656)
 * [HERE-STUDIO_1](https://studio.here.com/viewer/?project_id=82c0ea42-1daa-44bd-b988-cc04e790a83b)
 * [HERE-STUDIO_2](https://studio.here.com/viewer/?project_id=55d3a441-7195-44ae-a7ac-911da0fd916b)
- 
+#### [Drive link for Project Report, Demo and Ppt](https://drive.google.com/drive/folders/1zjDtE4VGgUj8hzTBJxO8vZtHaCWSXOyo?usp=drive_open)
