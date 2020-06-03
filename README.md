@@ -27,7 +27,7 @@ For visualizing this layer change the project CRS to EPSG:25386 and zoom to laye
 * **Google Satellite** - Base Map
 ## Time Series Heat Map
 ![image of all layers](https://github.com/saharshleo/WildlifeTracking/blob/master/DemoPlots/timeSeriesHeatmap.gif)
-## Grapics Plot
+## Graphics Plot
 * [flyingFox3d](https://github.com/saharshleo/WildlifeTracking/blob/master/GraphicsPlot/flyingFox3D.html)
   * x-axis - Latitude 
   * Y-axis - Longitude
